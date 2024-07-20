@@ -1,0 +1,9 @@
+.navbar-custom {
+    background-color: #007bff; /* Bootstrap primary color */
+  }
+
+.navbar-link-white {
+    color: white !important; 
+    text-decoration: none;
+    margin: 0px 10px;
+}  
